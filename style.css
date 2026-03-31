@@ -246,7 +246,7 @@ header {
 .how-it-works {
     padding: 100px 5%;
     background-color: var(--primary-blue);
-    background-image: linear-gradient(rgba(10, 27, 53, 0.5), rgba(10, 27, 53, 0.7)), url('../assets/fond-chauffage.jpg');
+    background-image: linear-gradient(rgba(10, 27, 53, 0.5), rgba(10, 27, 53, 0.7)), url('fond-chauffage.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
